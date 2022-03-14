@@ -13,4 +13,5 @@
 - 将`txt`格式的文本放置在`C:\Users\{您的用户名}\.vscode\extensions\mathon.code-novel-0.0.1\books`目录下面,
   Mac和Linux： `~/.vscode/extensions/mathon.code-novel-0.0.1/books`
 - `ctrl + alt + ,`： 打开小说。(Mac：`cmd + alt + ,`)
+- 下一页：`ctrl+alt+j`，上一页：`ctrl+alt+k`
 - `vscode` 底部状态栏有跳页按钮和切换书籍及显示阅读进度的按钮

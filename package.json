@@ -27,7 +27,17 @@
         "command": "extension.openNovel",
         "key": "ctrl+alt+,",
         "mac": "cmd+alt+,"
-      }
+      },
+	  {
+		"command": "extension.nextpage",
+		"key": "ctrl+alt+j",
+        "mac": "cmd+alt+j"
+	  },
+	  {
+		"command": "extension.prevpage",
+		"key": "ctrl+alt+k",
+        "mac": "cmd+alt+k"
+	  }
     ]
 	},
 	"scripts": {
